@@ -22,9 +22,15 @@ J'ai aussi trouver des traces de fwrite qui correspondent à l'écriture dans un
 IOC identifiés
 
 Fonctions clavier	fonctions de type KeyPress trouvées dans les imports	Indice de capture des frappes clavier
+
 Fichier	C:\WindSyst\log.txt	Fichier potentiellement utilisé pour stocker les frappes clavier
+
 Dossier	C:\WindSyst\	Répertoire utilisé par le malware
+
 Adresse e-mail	aaaaaaaaaaaa@gmail.com	Adresse potentiellement utilisée comme destinataire des données
+
 Serveur SMTP	smtp.gmail.com	Infrastructure utilisée potentiellement pour l’envoi de mails
+
 Fonction	fwrite	Indice d’écriture dans un fichier
+
 Fonction	SendMail	Indice d’un mécanisme d’envoi de données
