@@ -1,3 +1,5 @@
+J'ai fait le dump via FTK Imager
+
 Le dump mémoire a été analysé avec Volatility 3.
 
 La commande utilisée est :
@@ -23,4 +25,4 @@ Les trois processus possèdent le même processus parent, avec le PPID `8028`.
 
 Ce comportement est cohérent avec la persistance observée précédemment dans la clé de registre `HKCU\Software\Microsoft\Windows\CurrentVersion\Run`, où `Res.exe` était configuré pour être lancé automatiquement.
 
-Aucune instance de `Env.exe` n'a été retrouvée avec `windows.pslist` au moment du dump.
+Aucune instance de `Env.exe` n'a été retrouvée avec `windows.pslist` au moment du dump
