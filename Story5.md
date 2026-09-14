@@ -1,1 +1,1 @@
-Cette fois c'est la story 5 si t'avais pas compris
+Le niveau de risque est très élever car il capture chaque entrée du clavier, et les envoies ensuite par mail, le fichier est dur à détecter car il est à la racine de la machine après s'être copier dessus, il se relance aussi à chaque démarrage grâce aux clés de registre qu'on as trouver via : ` reg query "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" `
