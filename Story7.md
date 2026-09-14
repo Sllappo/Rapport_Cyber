@@ -15,3 +15,5 @@ Fichiers identifiés :
 - `C:\WindSyst\log.txt`
 
 Ces éléments correspondent aux artefacts déjà identifiés lors des analyses statique, dynamique et mémoire.
+
+J'arrive aussi à voir les log contenue dans le fichier log.txt du malware.
